@@ -238,7 +238,7 @@ a {
     opacity: .7;
 }
 
-.player-controls-icon {
+.player-controls-icon:hover {
     opacity: 1;
 }
 
