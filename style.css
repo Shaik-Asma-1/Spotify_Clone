@@ -333,3 +333,11 @@ a {
     margin-left: .1rem;
     margin-bottom: .2rem;
 }
+@media(max-width:1000px){
+    .hide{
+        display: none;
+    }
+    .player{
+        width: 100%;
+    }
+}
